@@ -1,6 +1,6 @@
 ## Boas vindas ao meu perfil 🐱
 
-Meu nome é Izabelly Alves0
+Meu nome é Izabelly Alves
 
 - Estou estudando no [Alura](https://www.alura.com.br)
 - Estou no 2º ano do Ensino Médio, na escola Professor Angelo Martino.
